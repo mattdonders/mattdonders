@@ -26,9 +26,4 @@
 [twitter]: https://twitter.com/mattdonders "Twitter"
 [game bot]: https://twitter.com/njdevilsgamebot
 
-<!-- <hr />
-
-[![Matt's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=mattdonders&theme=react-dark)](https://github.com/suhailkakar)
--->
-
 
