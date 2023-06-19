@@ -2,11 +2,11 @@
 <h3 align="left">I like nerdy things, photography, beer & whiskey. Husband & dad of two.</h3>
 <blockquote>"It's kind of fun to do the impossible." - Walt Disney</blockquote>
 
-
+<!--
 <a href="#mattdonders-title">
   <img src="https://github-readme-stats.vercel.app/api?username=mattdonders&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Matt Donders" align="right"/>
 </a>
-
+-->
 <!--
 - :office: &nbsp;I'm currently working at **Nordstone UK**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
